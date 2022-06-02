@@ -31,5 +31,21 @@ An aspiring developer eager to contribute to the tech world. I'm passionate abou
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="60" width="60">
 <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 
+  <br >
 
+## 🏆 Github Status
+  
+<img  src="https://github-readme-stats.vercel.app/api?username=dystopiadroid&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=dystopiadroid&theme=dark" width="45%" >
+
+<br>
+
+<div align="center">
+  
+### Show some ❤️ by starring ⭐ some of the repositories!
+
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/balaji-pj-ba8a83217/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bla_music_/)
+  
 </div>
