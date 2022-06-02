@@ -10,6 +10,6 @@ An aspiring developer eager to contribute to the tech world. I'm passionate abou
 
 - 🌱 Currently learning and working with React, Spring Boot, NodeJS and exploring different architectures like microservices.
 - 👯 I’m looking to collaborate on frontend applications using React and some basic backend dev stuff.
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/bla_music_/) 
-- 🎵 Fun fact: I also produce electronic dance music! 
+- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/balaji-pj-ba8a83217/)
+- 🎵 Fun fact: I also produce electronic dance music! (Checkout : [Instagram](https://www.instagram.com/bla_music_/) )
 <br />
