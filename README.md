@@ -49,3 +49,5 @@ An aspiring developer eager to contribute to the tech world. I'm passionate abou
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bla_music_/)
   
 </div>
+
+![](https://github.com/Manas1820/Manas1820/raw/master/footer.png)
